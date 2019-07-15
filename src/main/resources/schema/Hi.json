@@ -1,0 +1,8 @@
+{
+   
+   "properties" : {
+            "hi" : {
+                "type" : "string"
+            }
+        }
+  }

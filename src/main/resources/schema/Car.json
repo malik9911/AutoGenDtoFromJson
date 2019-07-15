@@ -1,0 +1,9 @@
+{
+
+  "additionalProperties":false,
+  "properties":{ 
+   "engin": {
+     "type":"string"
+      }
+   }
+}
